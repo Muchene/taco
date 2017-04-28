@@ -1,0 +1,8 @@
+[package]
+name = "taco"
+version = "0.1.0"
+authors = ["David Muchene <davidmuchene@gmail.com>"]
+
+[dependencies]
+portaudio = "0.7.0"
+rand ="0.3.*"
